@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neargg
-- 👀 I’m interested in AR VR AI smartcar
+- 👀 I’m interested in AR VR AI smartcar，ADS
 - 🌱 I’m currently working on mobile app and AI 
 - 💞️ I’m looking to collaborate on any intresting and awesome things
 - 📫 How to reach me ...
